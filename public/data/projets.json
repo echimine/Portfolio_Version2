@@ -1,0 +1,348 @@
+{
+  "projets": [
+    {
+      "id": 1,
+      "title": "Holosphere",
+      "date": "Avril/2025",
+      "text": "Nous avons conçu une expérience interactive et émotionnelle autour de Holosphere, un objet connecté qui projette des souvenirs en hologramme au cœur d’une sphère. L’objectif : permettre aux utilisateurs de revivre leurs moments les plus précieux comme s’ils y étaient, en alliant technologie, design et partage familial.",
+      "description": "site E-commerce avce l'utilisation de threeJS",
+      "image": "images/projets/holosphere/accueil_holosphere.png",
+      "images": [
+        {
+          "image": "/images/projets/holosphere/accueil_holosphere.png",
+          "alt": "image de l'accueil du site rcphotos"
+        },
+        {
+          "image": "/images/projets/holosphere/accueil-text-holosphere.png",
+          "alt": "image des articles du site rcphotos"
+        },
+        {
+          "image": "/images/projets/holosphere/animation-home-holosphere.png",
+          "alt": "image du détail d'un article du site rcphotos"
+        },
+        {
+          "image": "/images/projets/holosphere/jeu-home-holosphere.png",
+          "alt": "image du back-end du site rcphotos"
+        },
+        {
+          "image": "/images/projets/holosphere/jeu-personnalisation-holosphere.png",
+          "alt": "image du back-end du site rcphotos"
+        },
+        {
+          "image": "/images/projets/holosphere/story-holosphere.png",
+          "alt": "image du back-end du site rcphotos"
+        }
+      ],
+      "paragraphes": [
+        {
+          "paragraphe": "Holosphere est un projet de fin d’année réalisé en équipe avec trois designers. Le thème imposé était 'le souvenir', avec pour objectif de concevoir un site e-commerce autour d’un objet physique. Nous avons imaginé Holosphere : une sphère capable de projeter des souvenirs en hologramme, offrant une expérience à la fois interactive, émotionnelle et familiale."
+        },
+        {
+          "paragraphe": "J’ai développé l’ensemble du site avec React, Three.js et Tailwind CSS. Le plus grand défi du projet a été la gestion de la 3D avec Three.js, notamment pour modéliser une sphère holographique interactive et intégrer des objets 3D à l'intérieur du produit. Cette partie technique m’a vraiment poussé à monter en compétence."
+        }
+      ],
+      "links": [
+        {
+          "linksite": "https://holosphere.vercel.app/",
+          "linkname": "Visiter le site"
+        },
+        {
+          "linksite": "https://github.com/fryxeel/holosphere",
+          "linkname": "Github"
+        }
+      ],
+      "technologies": [
+        {
+          "technologie": "React"
+        },
+        {
+          "technologie": "Tailwind CSS"
+        },
+        {
+          "technologie": "NextJS"
+        },
+        {
+          "technologie": "ThreeJS / drei"
+        }
+      ],
+      "competences": [
+        {
+          "competence": "Travail d'équipe"
+        },
+        {
+          "competence": "Design système"
+        },
+        {
+          "competence": "Responsive"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "RC photos",
+      "date": "Février/2025",
+      "text": "J'ai créé un site pour mon frère photographe amateur.J'ai donc imaginé un site vitrine interactif pour exposer les photos de mon frère. Afin de structurer le projet, mon père a développé une API sur mesure, que j'ai intégrée en JavaScript. J'ai appris à gérer l'upload d’images en base64 et à manipuler les requêtes pour créer une expérience fluide, tout en renforçant mes compétences en front-end et back-end.",
+      "description": "Site vitrine pour un photographe amateur",
+      "image": "images/projets/rcphotos/projet-rcphotos.png",
+      "images": [
+        {
+          "image": "/images/projets/rcphotos/projet-rcphotos.png",
+          "alt": "image de l'accueil du site rcphotos"
+        },
+        {
+          "image": "/images/projets/rcphotos/projet-rcphotos-articles.png",
+          "alt": "image des articles du site rcphotos"
+        },
+        {
+          "image": "/images/projets/rcphotos/projet-rcphotos-articles-grille.png",
+          "alt": "image du détail d'un article du site rcphotos"
+        },
+        {
+          "image": "/images/projets/rcphotos/projet-rcphotos-admin.png",
+          "alt": "image du back-end du site rcphotos"
+        }
+      ],
+      "paragraphes": [
+        {
+          "paragraphe": "RCPhotos est un site vitrine dédié aux photographies de mon frère. L'objectif était de créer une plateforme simple et esthétique pour exposer ses images de manière fluide et accessible, offrant une expérience visuelle agréable à tous."
+        },
+        {
+          "paragraphe": "J'ai développé une API avec mon père pour gérer les photos (ajout, modification, suppression) et intégré cette API en JavaScript. L’upload d’images en base64, leur conversion en JPG et la création de miniatures ont été automatisés, améliorant l'expérience utilisateur."
+        },
+        {
+          "paragraphe": "Ce projet m'a permis de renforcer mes compétences en gestion de contenu et d'approfondir mes connaissances sur les API et leur utilisation en javascript, en combinant la photographie avec une interface moderne et intuitive."
+        }
+      ],
+      "links": [
+        {
+          "linksite": "https://www.rcphotos.fr/",
+          "linkname": "Visiter le site"
+        }
+      ],
+      "technologies": [
+        {
+          "technologie": "HTML"
+        },
+        {
+          "technologie": "CSS"
+        },
+        {
+          "technologie": "JAVASCRIPT"
+        }
+      ],
+      "competences": [
+        {
+          "competence": "Front-end & back-end"
+        },
+        {
+          "competence": "API REST"
+        },
+        {
+          "competence": "Contenu dynamiques"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "À TABLE !",
+      "date": "Décembre/2024",
+      "text": "Dans le cadre de mon apprentissage de Vue.js, j’ai réalisé un site de recettes nommé À Table !, basé sur l’API Spoonacular. Le projet utilise un store personnalisé pour centraliser les données. Les fonctionnalités incluent : ajout de recettes en favoris, génération d’une liste de courses interactive à partir des ingrédients, affichage détaillé des recettes, et design responsive mobile-first. Ce projet m’a permis de progresser en Vue.js (Option API), gestion du router, intégration d’API externe et structuration de données dans un store.",
+      "description": "Site internet de recettes de cuisine (API)",
+      "image": "/images/projets/atable/a-table.png",
+      "images": [
+        {
+          "image": "/images/projets/atable/a-table.png",
+          "alt": "image de l'accueil du site à table !"
+        },
+        {
+          "image": "/images/projets/atable/recipe-detail-ingredient.png",
+          "alt": "image des articles du site rcphotos"
+        },
+        {
+          "image": "/images/projets/atable/recipe-detail-instructions.png",
+          "alt": "image du détail d'un article du site rcphotos"
+        },
+        {
+          "image": "/images/projets/atable/my-favorite.png",
+          "alt": "image du back-end du site rcphotos"
+        },
+        {
+          "image": "/images/projets/atable/my-shopping-list.png",
+          "alt": "image du back-end du site rcphotos"
+        }
+      ],
+      "paragraphes": [
+        {
+          "paragraphe": "À Table ! est un projet personnel développé dans le cadre de mon apprentissage de Vue.js. Il s’agit d’un site de recettes qui repose sur l’API Spoonacular pour récupérer dynamiquement les données culinaires. Le projet a été conçu en mobile-first avec une interface intuitive et responsive, pensée pour une navigation fluide sur tous les écrans."
+        },
+        {
+          "paragraphe": "Les utilisateurs peuvent explorer les recettes, consulter les détails, ajouter leurs plats préférés en favoris, et créer une liste de courses interactive à partir des ingrédients d'une recette. J’ai centralisé la gestion des données dans un store personnalisé, permettant une meilleure organisation du code et une interaction fluide avec l’API."
+        },
+        {
+          "paragraphe": "Ce projet m’a permis de renforcer mes compétences avec l’Option API de Vue.js, la création d’un store maison, l’utilisation du Vue Router, et l’intégration d’une API externe."
+        }
+      ],
+      "links": [
+        {
+          "linksite": "https://www.echimine.fr/projets/a-table/",
+          "linkname": "Visiter le site"
+        },
+        {
+          "linksite": "https://github.com/echimine/a-table.git",
+          "linkname": "Github"
+        }
+      ],
+      "technologies": [
+        {
+          "technologie": "HTML"
+        },
+        {
+          "technologie": "CSS"
+        },
+        {
+          "technologie": "JAVASCRIPT"
+        },
+        {
+          "technologie": "VUE.JS"
+        }
+      ],
+      "competences": [
+        {
+          "competence": "Travail d'équipe"
+        },
+        {
+          "competence": "Design système"
+        },
+        {
+          "competence": "Responsive"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "IaSurvivor",
+      "date": "Novembre/2025",
+      "text": "Dans le cadre d’un workshop de 5 jours, nous avons conçu un événement “Bar à Jeux Numérique” en équipe (3 développeurs, 2 designers). J’ai travaillé sur IA Survivor, un jeu interactif où l’utilisateur propose une solution à un scénario, et une IA décide s’il survit. C’était mon premier projet : HTML, CSS et JavaScript ont été utilisés, avec du localStorage pour stocker les scénarios. J’ai particulièrement apprécié la collaboration entre développeurs et graphistes.",
+      "description": "Jeu avec utilisation d'une IA",
+      "image": "/images/projets/workshop1/projet-worshop1.png",
+      "images": [
+        {
+          "image": "/images/projets/workshop1/projet-worshop1.png",
+          "alt": "image de l'accueil du jeu IaSurvivor"
+        },
+        {
+          "image": "/images/projets/workshop1/projet-worshop1-scenario.png",
+          "alt": "image des articles du site rcphotos"
+        },
+        {
+          "image": "/images/projets/workshop1/projet-worshop1-ecriture-solution.png",
+          "alt": "image du détail d'un article du site rcphotos"
+        },
+        {
+          "image": "/images/projets/workshop1/projet-workshop1-reponse-ia.png",
+          "alt": "image du back-end du site rcphotos"
+        },
+        {
+          "image": "/images/projets/workshop1/projet-workshop1-fin-mort.png",
+          "alt": "image du back-end du site rcphotos"
+        }
+      ],
+      "paragraphes": [
+        {
+          "paragraphe": "IA Survivor est un jeu interactif développé lors d’un workshop intensif de 5 jours, en équipe avec trois développeurs et deux designers. Le projet s’inscrivait dans un événement fictif nommé 'Bar à Jeux Numérique', visant à créer plusieurs mini-jeux interactifs autour du numérique."
+        },
+        {
+          "paragraphe": "Le principe du jeu est simple : l'utilisateur doit proposer une solution face à un scénario donné, et une intelligence artificielle décide s’il survit ou non. Le jeu repose sur une logique conditionnelle en JavaScript et utilise le localStorage pour stocker et charger les scénarios."
+        },
+        {
+          "paragraphe": "Ce projet, mon tout premier, m’a permis de découvrir le travail d’équipe et les bases de la création d’un jeu web avec HTML, CSS et JavaScript. J’ai particulièrement apprécié la collaboration entre développeurs et designers, ainsi que l’approche ludique et narrative du développement."
+        }
+      ],
+      "links": [
+        {
+          "linksite": "https://www.echimine.fr/projets/workshop1/",
+          "linkname": "Visiter le site"
+        }
+      ],
+      "technologies": [
+        {
+          "technologie": "HTML"
+        },
+        {
+          "technologie": "CSS"
+        },
+        {
+          "technologie": "JAVASCRIPT"
+        }
+      ],
+      "competences": [
+        {
+          "competence": "Travail d'équipe"
+        },
+        {
+          "competence": "Design système"
+        },
+        {
+          "competence": "Responsive"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Duel dans la Force",
+      "date": "Décembre/2025",
+      "text": "Le projet 'Duel dans la Force' est un jeu de frappe en JavaScript où deux joueurs s'affrontent dans l'univers de Star Wars. Le but du jeu est simple : chaque joueur doit frapper au bon moment pour allumer son sabre laser, et le premier à réussir cela remporte la partie. En tant que passionné de Star Wars, j'ai choisi de faire le thème de Stawars. Techniquement, j'ai utilisé la gestion des événements avec les <i>KeyUp</i> et aussi la couleur du sabre laser change en fonction du score. Ce projet a permis de perfectionner mes compétences en JavaScript, tout en étant une bonne occasion d'appliquer des concepts appris en cours.",
+      "description": "Jeu de frappe",
+      "image": "/images/projets/sw/projet-jeux-de-frappe.png",
+      "images": [
+        {
+          "image": "/images/projets/sw/projet-jeux-de-frappe.png",
+          "alt": "image du jeu Duel dans la force"
+        }
+      ],
+      "paragraphes": [
+        {
+          "paragraphe": "Holosphere est un projet de fin d’année réalisé en équipe avec trois designers. Le thème imposé était 'le souvenir', avec pour objectif de concevoir un site e-commerce autour d’un objet connecté. Nous avons imaginé Holosphere : une sphère capable de projeter des souvenirs en hologramme, offrant une expérience à la fois interactive, émotionnelle et familiale."
+        },
+        {
+          "paragraphe": "J’ai développé l’ensemble du site avec React, Three.js et Tailwind CSS. Le plus grand défi du projet a été la gestion de la 3D avec Three.js, notamment pour modéliser une sphère holographique interactive et intégrer un mini-jeu lié à l’univers du produit. Cette partie technique m’a vraiment poussé à monter en compétence sur les environnements 3D dans le navigateur."
+        },
+        {
+          "paragraphe": "Holosphere, c’est plus qu’un projet tech : c’est une réflexion sur la manière dont la technologie peut servir l’émotion et le partage familial."
+        }
+      ],
+      "links": [
+        {
+          "linksite": "https://www.echimine.fr/projets/sw/index.html",
+          "linkname": "Visiter le site"
+        },
+        {
+          "linksite": "https://github.com/echimine/jeu-de-frappe-sw.git",
+          "linkname": "Github"
+        }
+      ],
+      "technologies": [
+        {
+          "technologie": "HTML"
+        },
+        {
+          "technologie": "CSS"
+        },
+        {
+          "technologie": "JAVASCRIPT"
+        }
+      ],
+      "competences": [
+        {
+          "competence": "Travail d'équipe"
+        },
+        {
+          "competence": "Design système"
+        },
+        {
+          "competence": "Responsive"
+        }
+      ]
+    }
+  ]
+}
