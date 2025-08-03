@@ -5,7 +5,7 @@
       "title": "Holosphere",
       "date": "Avril/2025",
       "text": "Nous avons conçu une expérience interactive et émotionnelle autour de Holosphere, un objet connecté qui projette des souvenirs en hologramme au cœur d’une sphère. L’objectif : permettre aux utilisateurs de revivre leurs moments les plus précieux comme s’ils y étaient, en alliant technologie, design et partage familial.",
-      "description": "site E-commerce avce l'utilisation de threeJS",
+      "description": "site E-commerce avec l'utilisation de threeJS",
       "image": "images/projets/holosphere/accueil_holosphere.png",
       "images": [
         {
@@ -291,24 +291,13 @@
       "id": 5,
       "title": "Duel dans la Force",
       "date": "Décembre/2025",
-      "text": "Le projet 'Duel dans la Force' est un jeu de frappe en JavaScript où deux joueurs s'affrontent dans l'univers de Star Wars. Le but du jeu est simple : chaque joueur doit frapper au bon moment pour allumer son sabre laser, et le premier à réussir cela remporte la partie. En tant que passionné de Star Wars, j'ai choisi de faire le thème de Stawars. Techniquement, j'ai utilisé la gestion des événements avec les <i>KeyUp</i> et aussi la couleur du sabre laser change en fonction du score. Ce projet a permis de perfectionner mes compétences en JavaScript, tout en étant une bonne occasion d'appliquer des concepts appris en cours.",
+      "text": "Le projet 'Duel dans la Force' est un jeu de frappe en JavaScript où deux joueurs s'affrontent dans l'univers de Star Wars. Le but du jeu est simple : chaque joueur doit frapper au bon moment pour allumer son sabre laser, et le premier à réussir cela remporte la partie. En tant que passionné de Star Wars, j'ai choisi de faire le thème de Stawars. Techniquement, j'ai utilisé la gestion des événements avec les KeyUp et aussi la couleur du sabre laser change en fonction du score. Ce projet a permis de perfectionner mes compétences en JavaScript, tout en étant une bonne occasion d'appliquer des concepts appris en cours.",
       "description": "Jeu de frappe",
       "image": "/images/projets/sw/projet-jeux-de-frappe.png",
       "images": [
         {
           "image": "/images/projets/sw/projet-jeux-de-frappe.png",
           "alt": "image du jeu Duel dans la force"
-        }
-      ],
-      "paragraphes": [
-        {
-          "paragraphe": "Holosphere est un projet de fin d’année réalisé en équipe avec trois designers. Le thème imposé était 'le souvenir', avec pour objectif de concevoir un site e-commerce autour d’un objet connecté. Nous avons imaginé Holosphere : une sphère capable de projeter des souvenirs en hologramme, offrant une expérience à la fois interactive, émotionnelle et familiale."
-        },
-        {
-          "paragraphe": "J’ai développé l’ensemble du site avec React, Three.js et Tailwind CSS. Le plus grand défi du projet a été la gestion de la 3D avec Three.js, notamment pour modéliser une sphère holographique interactive et intégrer un mini-jeu lié à l’univers du produit. Cette partie technique m’a vraiment poussé à monter en compétence sur les environnements 3D dans le navigateur."
-        },
-        {
-          "paragraphe": "Holosphere, c’est plus qu’un projet tech : c’est une réflexion sur la manière dont la technologie peut servir l’émotion et le partage familial."
         }
       ],
       "links": [

@@ -25,12 +25,12 @@
         <ul class="flex gap-4 justify-center md:justify-end">
           <li>
             <RouterLink to="/projets" :class="getLinkClass('/projets')"
-              ><Typographie size="bodyxl">Projet</Typographie></RouterLink
+              ><Typographie size="bodyxl">Mes projets</Typographie></RouterLink
             >
           </li>
           <li>
             <RouterLink to="/a-propos" :class="getLinkClass('/a-propos')"
-              ><Typographie size="bodyxl">A propos</Typographie></RouterLink
+              ><Typographie size="bodyxl">À propos</Typographie></RouterLink
             >
           </li>
           <!-- <li>
